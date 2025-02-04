@@ -1,3 +1,3 @@
 <?php
-	echo 'Deploying PHP-based App on Openshit cluster"
+	echo "Deploying PHP-based App on Openshit cluster"
 ?>
